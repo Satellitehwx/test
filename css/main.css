@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
 html,body{height:100%;}
 body{
-	background: url(../img/1.jpg) no-repeat center center #E5D8AE !important;
+	background: url(../images/1.jpg) no-repeat center center #E5D8AE !important;
 }
 *{
 	padding:0;
